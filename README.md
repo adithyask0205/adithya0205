@@ -1,4 +1,4 @@
-#- 👋 Hi, I’m Adithya S. Kumar
+- #👋 Hi, I’m Adithya S. Kumar
 - 👀 I’m interested in Physics, Mathematics and Computing
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on 
